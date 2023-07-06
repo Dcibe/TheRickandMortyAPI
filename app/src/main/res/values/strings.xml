@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TheRickandMortyAPI</string>
+    <string name="Boton_Personajes">Personajes</string>
+    <string name="Boton_Episodios">Episodios</string>
+    <string name="Boton_Aleatorio">Aleatorio</string>
+
+</resources>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "530381614024",
+    "project_id": "rickandmortydemo-ef81c",
+    "storage_bucket": "rickandmortydemo-ef81c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530381614024:android:f992075acd1bf464ae6efd",
+        "android_client_info": {
+          "package_name": "com.example.therickandmortyapi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "530381614024-o81rf8sajhga9dat4j3qm83hm8628b8n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.therickandmortyapi",
+            "certificate_hash": "ec042fb2774acd9254ef6cc203f41f9e77eab7d1"
+          }
+        },
+        {
+          "client_id": "530381614024-9jg9db8v0chb79aoej2hj606vm42llj6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5fb2wfeFboYnOB3JdIbImIuqg4vtTCTY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "530381614024-9jg9db8v0chb79aoej2hj606vm42llj6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
